@@ -8,7 +8,6 @@ A console-based job queue system built in Core Java inspired by BullMQ.
 - Multithreaded workers
 - Retry mechanism
 - Fault-tolerant processing
-- Dead job handling
 - OOP-based design
 
 ## Tech Used
